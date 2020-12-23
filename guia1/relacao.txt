@@ -1,0 +1,7 @@
+Exercicios feitos a mão estão no arquivo "exercicios.txt"
+
+Os codigos em verilog estao na pasta de nome "verilog"
+     porem, o exercicio 5 em verilog está imcompleto
+
+O codigo em Java (Guia 01) está incompleto, 
+     faltando as alternativas (D) e (E) da questão 5

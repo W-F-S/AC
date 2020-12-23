@@ -1,0 +1,43 @@
+Walker Freitas dos Santos
+698774
+
+
+1) fazer as conversoes de decimal pra binario:
+
+R:	a) 10111;
+	b) 110110;
+	c) 1011011011;
+	d) 1000100;
+	e) 101101101
+
+2) Fazer as conversões de binario para decimal:
+
+R:   a) 21;
+     b) 22;
+     c) 45;
+     d) 59;
+     e) 57;
+
+3) fazer as conversões de decimal para a vase indicada:
+
+R:   a) 1013;
+     b) 53;
+     c) 43;
+     d) 1015;
+     e) 97;
+
+4) Fazer as conversões de base entre as bases indicadas por agrupamento
+
+R:   a)113;
+     b) 23;
+     c) 213;
+     d) 45;
+     e) 233;
+
+5) Converter entre símbolos e códigos de representação:
+
+R:   a) 5055432d4d696e6173;
+     b) 323032302d32;
+     c) 01000010 01110010 01100001 01110011 01101001 01101100;
+     d) "Noite"
+     e)  B.H.-MG
